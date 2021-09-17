@@ -1,3 +1,7 @@
+// Matt Hogan
+// INF 651A
+// Assignment 2
+
 // Question 1
 let myNumber;
 
